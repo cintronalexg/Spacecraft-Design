@@ -2,3 +2,4 @@ Python Learning Plan
 
 1. Array indexing in Numpy
 2. Practice using pass if/else statements
+3. Help to engineer spacecraft
