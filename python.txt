@@ -6,3 +6,4 @@ Python Learning Plan
 4. Design a new rocket for KSC
 5. Hire two contractors
 6. The engineers handbook for materials
+7. Turbine Training
