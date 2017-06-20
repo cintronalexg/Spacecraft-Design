@@ -4,6 +4,6 @@ Python Learning Plan
 2. Practice using pass if/else statements
 3. Help to engineer spacecraft
 4. Design a new rocket for KSC
-5. Hire two contractors
+5. Hire two millwrights
 6. The engineers handbook for materials
 7. Turbine Training
